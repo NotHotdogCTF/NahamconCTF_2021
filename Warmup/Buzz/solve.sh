@@ -1,0 +1,1 @@
+cat buzz | uncompress
