@@ -6,5 +6,6 @@ Team Members participating in this event: rinkerm, jluong102
 
 We ended in 284/6491 with 3217 points
 
+Here are a few selected write-ups.
 
 ![Img](cert.png)
